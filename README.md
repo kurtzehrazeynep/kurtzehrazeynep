@@ -7,12 +7,18 @@
 Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend teknolojileriyle ilgileniyorum. Özellikle Ruby ve test otomasyonu (Minitest) üzerine yoğunlaşıyorum.
 
 ---
+<!-- Katkı Grafiği -->
+<p align="center">
+  <img width="90%" src="https://ghchart.rshah.org/138F06/kurtzehrazeynep" />
+</p> 
 
 ## 🔗 Sosyal Medya & İletişim
 <p align="center">
-  <a href="https://x.com/kullaniciadin"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kullaniciadin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/kullaniciadin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/muhendisim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kurtzehrazeynep"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/zehrazeynepkurt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://substack.com/@kurtzehra"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="https://medium.com/@kurtzehra"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
