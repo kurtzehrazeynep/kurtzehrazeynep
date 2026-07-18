@@ -1,4 +1,4 @@
-# <p align="center">ZEHRA ZEYNEP</p>
+# <p align="center">ZEHRA ZEYNEP KURT</p>
 <!-- Custom Space & Aviation Banner -->
 <p align="center">
   <img src="assets/resim1.jpeg" width="100%" alt="Space Aviation Banner">
