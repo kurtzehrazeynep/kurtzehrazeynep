@@ -1,7 +1,10 @@
 # <p align="center">ZEHRA ZEYNEP</p>
+<!-- Custom Space & Aviation Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI%20THERE,%20WELCOME%20TO%20MY%20GITHUB&fontSize=50" />
+  <img src="assets/resim1.jpeg" width="100%" alt="Space Aviation Banner">
 </p>
+
+<br>
 
 ## Hakkımda
 Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend teknolojileriyle ilgileniyorum. Özellikle Ruby ve test otomasyonu (Minitest) üzerine yoğunlaşıyorum.
