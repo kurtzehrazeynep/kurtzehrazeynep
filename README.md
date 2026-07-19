@@ -12,7 +12,7 @@ Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend t
 ---
 <!-- Katkı Grafiği -->
 <p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/138F06/kurtzehrazeynep" />
+<img width="90%" src="https://ghchart.rshah.org/138F06/kurtzehrazeynep?v=1" />
 </p> 
 
 ## 🔗 Sosyal Medya & İletişim
