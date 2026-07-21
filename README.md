@@ -1,4 +1,5 @@
-# <p align="center">ZEHRA ZEYNEP KURT</p>
+<h1 align="center">✨ ZEHRA ZEYNEP KURT ✨</h1>
+
 <!-- Custom Space & Aviation Banner -->
 <p align="center">
   <img src="assets/resim1.jpeg" width="100%" alt="Space Aviation Banner">
@@ -6,14 +7,17 @@
 
 <br>
 
-## Hakkımda
-Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend teknolojileriyle ilgileniyorum. Özellikle Ruby ve test otomasyonu (Minitest) üzerine yoğunlaşıyorum.
+## 🚀 Hakkımda
+Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backend teknolojileriyle ilgileniyorum. Özellikle **Ruby** ve test otomasyonu (**Minitest**) üzerine yoğunlaşıyorum.
 
 ---
+
 <!-- Katkı Grafiği -->
 <p align="center">
-<img width="90%" src="https://ghchart.rshah.org/138F06/kurtzehrazeynep?v=2" />
+  <img width="95%" src="https://ghchart.rshah.org/138F06/kurtzehrazeynep?v=2" />
 </p> 
+
+---
 
 ## 🔗 Sosyal Medya & İletişim
 <p align="center">
@@ -27,26 +31,28 @@ Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend t
 ---
 
 ## 📊 LeetCode & GitHub İstatistikleri
-<!-- Aktivite Grafiği -->
+
+<!-- Aktivite Çizgi Grafiği -->
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzehrazeynep&theme=react-dark&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzehrazeynep&theme=react-dark&hide_border=true" />
 </p>
 
-<!-- GitHub Streaks (Seri İstatistikleri) -->
+<!-- Güncellenmiş GitHub Seri İstatistikleri -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtzehrazeynep&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtzehrazeynep&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
 </p>
 
+<!-- LeetCode İstatistik Kartı -->
 <p align="center">
-  <!-- LeetCode İstatistik Kartı -->
   <img src="https://leetcard.jacoblin.cool/kurtzehrazeynep?theme=dark&font=Inter&ext=contest" alt="LeetCode">
 </p>
 
+<!-- Özet Kartı -->
 <p align="center">
-  <!-- GitHub İstatistikleri -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=tokyonight&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtzehrazeynep&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtzehrazeynep&theme=tokyonight" width="95%" />
 </p>
+
+---
 
 ## 🛠️ Kullandığım Teknolojiler
 <p align="center">
