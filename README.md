@@ -14,7 +14,7 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 
 <!-- Katkı Grafiği (Koyu Mor Tonlar) -->
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/8A2BE2/kurtzehrazeynep?v=2" />
+  <img width="95%" src="https://ghchart.rshah.org/8A2BE2/kurtzehrazeynep?v=3" />
 </p> 
 
 ---
@@ -32,9 +32,9 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 
 ## 📊 LeetCode & GitHub İstatistikleri
 
-<!-- GitHub Stats Kartı (Alternatif ve Koyu Mor Tema) -->
+<!-- GitHub Stats Kartı (Stabil Dracula Tema & Mor Uyumlu) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=dracula&bg_color=181124&title_color=a9a1e1&icon_color=a9a1e1&hide_border=true" width="95%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" width="95%" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak İstatistikleri -->
