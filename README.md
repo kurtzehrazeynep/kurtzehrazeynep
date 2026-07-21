@@ -14,7 +14,7 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 
 <!-- Katkı Grafiği (Koyu Mor Tonlar) -->
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/8A2BE2/kurtzehrazeynep?v=3" />
+  <img width="95%" src="https://ghchart.rshah.org/8A2BE2/kurtzehrazeynep?v=5" />
 </p> 
 
 ---
@@ -32,12 +32,12 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 
 ## 📊 LeetCode & GitHub İstatistikleri
 
-<!-- GitHub Stats Kartı (Stabil Dracula Tema & Mor Uyumlu) -->
+<!-- Çok Sevdiğin Aktivite Çizgi Grafiği (Koyu Mor Arka Planlı Özel Renkler) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" width="95%" alt="GitHub Stats" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzehrazeynep&bg_color=181124&color=a9a1e1&line=8a2be2&point=ffffff&area=true&hide_border=true&v=1" />
 </p>
 
-<!-- GitHub Streak İstatistikleri -->
+<!-- GitHub Seri İstatistikleri (Koyu Mor Arka Plan) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtzehrazeynep&theme=tokyonight&background=181124&hide_border=true" width="95%" alt="GitHub Streak" />
 </p>
@@ -45,6 +45,11 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 <!-- LeetCode İstatistik Kartı -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kurtzehrazeynep?theme=dark&font=Inter&ext=contest" alt="LeetCode">
+</p>
+
+<!-- Özet Kartı (Dracula Mor Tema) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtzehrazeynep&theme=dracula" width="95%" />
 </p>
 
 ---
