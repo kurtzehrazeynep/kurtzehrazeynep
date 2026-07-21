@@ -45,7 +45,7 @@ Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend t
 <p align="center">
   <!-- GitHub İstatistikleri -->
   <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=tokyonight&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtzehrazeynep&layout=compact&theme=tokyonight" width="48%">
+[![GitHub Streak](https://streak-stats.demolab.com?user=kurtzehrazeynep&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ---
