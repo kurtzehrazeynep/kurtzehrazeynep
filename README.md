@@ -12,34 +12,34 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 
 ---
 
-<!-- Katkı Grafiği -->
+<!-- Katkı Grafiği (Koyu Mor Tonlar) -->
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/138F06/kurtzehrazeynep?v=2" />
+  <img width="95%" src="https://ghchart.rshah.org/8A2BE2/kurtzehrazeynep?v=2" />
 </p> 
 
 ---
 
 ## 🔗 Sosyal Medya & İletişim
 <p align="center">
-  <a href="https://x.com/muhendisim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kurtzehrazeynep"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/zehrazeynepkurt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://substack.com/@kurtzehra"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
-  <a href="https://medium.com/@kurtzehra"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/muhendisim"><img src="https://img.shields.io/badge/X-2D1B4E?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kurtzehrazeynep"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/zehrazeynepkurt"><img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://substack.com/@kurtzehra"><img src="https://img.shields.io/badge/Substack-3C1053?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="https://medium.com/@kurtzehra"><img src="https://img.shields.io/badge/Medium-2D1B4E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 📊 LeetCode & GitHub İstatistikleri
 
-<!-- Aktivite Çizgi Grafiği -->
+<!-- GitHub Stats Kartı (Alternatif ve Koyu Mor Tema) -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzehrazeynep&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=dracula&bg_color=181124&title_color=a9a1e1&icon_color=a9a1e1&hide_border=true" width="95%" alt="GitHub Stats" />
 </p>
 
-<!-- Güncellenmiş GitHub Seri İstatistikleri -->
+<!-- GitHub Streak İstatistikleri -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtzehrazeynep&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurtzehrazeynep&theme=tokyonight&background=181124&hide_border=true" width="95%" alt="GitHub Streak" />
 </p>
 
 <!-- LeetCode İstatistik Kartı -->
@@ -47,21 +47,16 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
   <img src="https://leetcard.jacoblin.cool/kurtzehrazeynep?theme=dark&font=Inter&ext=contest" alt="LeetCode">
 </p>
 
-<!-- Özet Kartı -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtzehrazeynep&theme=tokyonight" width="95%" />
-</p>
-
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minitest-4B0082?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-3C1053?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minitest-6A0DAD?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-2D1B4E?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Tux" />
-  <img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-3C1053?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181124?style=for-the-badge&logo=github&logoColor=white" />
 </p>
