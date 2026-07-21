@@ -48,8 +48,6 @@ Merhaba! Ben Zehra Zeynep. Yazılım geliştirme, algoritma analizi ve backend t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtzehrazeynep&layout=compact&theme=tokyonight" width="48%">
 </p>
 
----
-
 ## 🛠️ Kullandığım Teknolojiler
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
