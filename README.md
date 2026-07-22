@@ -48,9 +48,7 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backe
 </p>
 
 <!-- Özet Kartı (Dracula Mor Tema) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kurtzehrazeynep&theme=dracula" width="95%" />
-</p>
+
 
 ---
 
