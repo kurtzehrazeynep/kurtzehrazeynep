@@ -1,4 +1,4 @@
-<h1 align="center">✨ ZEHRA ZEYNEP KURT ✨</h1>
+<h1 align="center">🛧ZEHRA ZEYNEP KURT🛧</h1>
 
 <!-- Custom Space & Aviation Banner -->
 <p align="center">
