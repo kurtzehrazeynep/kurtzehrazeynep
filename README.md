@@ -8,7 +8,7 @@
 <br>
 
 ## 🚀 Hakkımda
-Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, algoritma analizi ve backend teknolojileriyle ilgileniyorum. Özellikle **Ruby** ve test otomasyonu (**Minitest**) üzerine yoğunlaşıyorum.
+Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, Otomasyon, İnovasyon ile ilgileniyorum
 
 ---
 
