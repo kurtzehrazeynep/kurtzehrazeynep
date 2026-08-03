@@ -38,8 +38,9 @@ Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, Otomasyon, İnovasyon ile 
 </p>
 
 <!-- GitHub Seri İstatistikleri (Düzeltilen Kısım) -->
+<!-- Alternatif Kesintisiz GitHub İstatistik Kartı -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kurtzehrazeynep&theme=tokyonight&background=181124&hide_border=true" width="95%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=tokyonight&bg_color=181124&hide_border=true&title_color=a9a1e1" width="95%" alt="GitHub Stats" />
 </p>
 
 <!-- LeetCode İstatistik Kartı -->
