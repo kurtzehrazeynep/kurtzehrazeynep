@@ -8,8 +8,7 @@
 <br>
 
 ## 🚀 Hakkımda
-Merhaba! Ben **Zehra Zeynep**. Yazılım geliştirme, Otomasyon, İnovasyon ile ilgileniyorum.
-
+Merhaba! Ben **Zehra Zeynep**.
 ---
 
 <!-- Katkı Grafiği (Koyu Mor Tonlar) -->
