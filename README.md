@@ -2,7 +2,7 @@
 
 <!-- Custom Space & Aviation Banner -->
 <p align="center">
-  <img src="assets/resim1.jpeg" width="100%" alt="Space Aviation Banner">
+  <img src="assets/darwandgum.jpeg" width="100%" alt="Space Aviation Banner">
 </p>
 
 <br>
