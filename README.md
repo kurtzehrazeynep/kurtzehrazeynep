@@ -11,20 +11,20 @@
 Merhaba! Ben **Zehra Zeynep**.
 ---
 
-<!-- Katkı Grafiği (Koyu Mor Tonlar) -->
+<!-- Katkı Grafiği (Darwin Turuncusu Yapıldı) -->
 <p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/8A2BE2/kurtzehrazeynep?v=5" />
+  <img width="95%" src="https://ghchart.rshah.org/F16F22/kurtzehrazeynep?v=5" />
 </p> 
 
 ---
 
 ## 🔗 Sosyal Medya & İletişim
 <p align="center">
-  <a href="https://x.com/muhendisim"><img src="https://img.shields.io/badge/X-2D1B4E?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kurtzehrazeynep"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/zehrazeynepkurt"><img src="https://img.shields.io/badge/Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://substack.com/@kurtzehra"><img src="https://img.shields.io/badge/Substack-3C1053?style=for-the-badge&logo=substack&logoColor=white" /></a>
-  <a href="https://medium.com/@kurtzehra"><img src="https://img.shields.io/badge/Medium-2D1B4E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://x.com/muhendisim"><img src="https://img.shields.io/badge/X-181124?style=for-the-badge&logo=x&logoColor=44C0E4" /></a>
+  <a href="https://linkedin.com/in/kurtzehrazeynep"><img src="https://img.shields.io/badge/LinkedIn-181124?style=for-the-badge&logo=linkedin&logoColor=44C0E4" /></a>
+  <a href="https://instagram.scom/zehrazeynepkurt"><img src="https://img.shields.io/badge/Instagram-181124?style=for-the-badge&logo=instagram&logoColor=F16F22" /></a>
+  <a href="https://substack.com/@kurtzehra"><img src="https://img.shields.io/badge/Substack-181124?style=for-the-badge&logo=substack&logoColor=F16F22" /></a>
+  <a href="https://medium.com/@kurtzehra"><img src="https://img.shields.io/badge/Medium-181124?style=for-the-badge&logo=medium&logoColor=44C0E4" /></a>
 </p>
 
 ---
@@ -33,13 +33,12 @@ Merhaba! Ben **Zehra Zeynep**.
 
 <!-- Aktivite Çizgi Grafiği -->
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzehrazeynep&bg_color=181124&color=a9a1e1&line=8a2be2&point=ffffff&area=true&hide_border=true&v=1" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzehrazeynep&bg_color=181124&color=44C0E4&line=F16F22&point=ffffff&area=true&hide_border=true&v=1" />
 </p>
 
-<!-- GitHub Seri İstatistikleri (Düzeltilen Kısım) -->
-<!-- Alternatif Kesintisiz GitHub İstatistik Kartı -->
+<!-- GitHub Seri İstatistikleri -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=tokyonight&bg_color=181124&hide_border=true&title_color=a9a1e1" width="95%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurtzehrazeynep&show_icons=true&theme=tokyonight&bg_color=181124&hide_border=true&title_color=44C0E4&icon_color=F16F22&text_color=a9a1e1" width="95%" alt="GitHub Stats" />
 </p>
 
 <!-- LeetCode İstatistik Kartı -->
@@ -51,13 +50,12 @@ Merhaba! Ben **Zehra Zeynep**.
 
 ## 🛠️ Kullandığım Teknolojiler
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby-3C1053?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-4B0082?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minitest-6A0DAD?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-2D1B4E?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Tux" />
-  <img src="https://img.shields.io/badge/Cursor-3C1053?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-4B0082?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181124?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-1A0B2E?style=for-the-badge&logo=visual-studio-code&logoColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/Ruby-181124?style=for-the-badge&logo=ruby&logoColor=F16F22" />
+  <img src="https://img.shields.io/badge/C-181124?style=for-the-badge&logo=c&logoColor=44C0E4" />
+  <img src="https://img.shields.io/badge/Minitest-181124?style=for-the-badge&logo=git&logoColor=F16F22" />
+  <img src="https://img.shields.io/badge/Ubuntu-181124?style=for-the-badge&logo=ubuntu&logoColor=44C0E4" />
+  <img src="https://img.shields.io/badge/Cursor-181124?style=for-the-badge&logo=visual-studio-code&logoColor=F16F22" />
+  <img src="https://img.shields.io/badge/Git-181124?style=for-the-badge&logo=git&logoColor=44C0E4" />
+  <img src="https://img.shields.io/badge/GitHub-181124?style=for-the-badge&logo=github&logoColor=F16F22" />
+  <img src="https://img.shields.io/badge/-VS%20Code-181124?style=for-the-badge&logo=visual-studio-code&logoColor=44C0E4" />
 </p>
